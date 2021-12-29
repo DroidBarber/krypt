@@ -5,6 +5,9 @@ In this project we learn how to : <br/>
 •Write Smart Contracts on the Ethereum network using the Solidity programming language.</br>
 •Essentially, how to create a full-fledged Web 3.0 application that allows users to send transactions through the blockchain.
 
+![dsdqfdqf](https://user-images.githubusercontent.com/60230244/147667961-0a3d662f-e00c-4b60-a38d-201d3490d53e.PNG)
+
+
 ## SOFTWARE TECHNOLOGIES
 •React</br>
 •react-icons</br>
