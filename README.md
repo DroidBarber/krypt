@@ -10,11 +10,15 @@ In this project we learn how to : <br/>
 
 ## SOFTWARE TECHNOLOGIES
 •React</br>
+•Tailwind CSS</br>
 •react-icons</br>
+•Vite</br>
+•Solidity</br>
 •chai</br>
 •ethereum-waffle</br>
 •ethers</br>
 •hardhat</br>
+•hardhat-waffle</br>
 
 ## GETTING STARTED
 
